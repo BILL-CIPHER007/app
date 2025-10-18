@@ -65,7 +65,7 @@ export default function RegisterPage() {
           <div className="flex items-center justify-center space-x-2 mb-4">
             <BookOpen className="h-8 w-8 text-primary" />
             <span className="font-bold text-2xl bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              IFPI Platform
+              IFPlay
             </span>
           </div>
           <p className="text-gray-600">Crie sua conta gratuita</p>

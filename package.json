@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npx prisma generate && next build",
     "start": "next start",
     "lint": "next lint",
     "seed": "tsx scripts/seed.ts",
+    "seed2": "tsx scripts/seed2.ts",
     "tailwind:init": "tailwindcss init -p"
   },
   "dependencies": {

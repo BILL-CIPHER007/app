@@ -53,7 +53,7 @@ export default function Home() {
           <div className="flex items-center space-x-2">
             <BookOpen className="h-6 w-6 text-primary" />
             <span className="font-bold text-xl bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              IFPI Platform
+              IFPlay
             </span>
           </div>
           <div className="flex items-center space-x-4">
@@ -114,7 +114,7 @@ export default function Home() {
                 </div>
                 <CardTitle>Conteúdo Direcionado</CardTitle>
                 <CardDescription>
-                  Questões específicas para o exame classificatório do IFPI nas 6 disciplinas principais
+                  Questões específicas para o exame classificatório do IFPI 
                 </CardDescription>
               </CardHeader>
             </Card>
@@ -237,10 +237,10 @@ export default function Home() {
         <div className="container mx-auto max-w-7xl text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">IFPI Platform</span>
+            <span className="font-semibold">IFPlay</span>
           </div>
           <p className="text-gray-400 text-sm">
-            © 2025 IFPI Platform. Plataforma educacional para preparação do exame classificatório.
+            © 2025 IFPlay. Plataforma educacional para preparação do exame classificatório.
           </p>
         </div>
       </footer>
